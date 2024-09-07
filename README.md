@@ -12,7 +12,13 @@
 | GND       | DGND   |         
 | 11 (MOSI) | SDATA  |        
 | 13 (SCK)  | SCLK   |         
-| 10 (SS)   | FSYNC  |         
+| 10 (SS)   | FSYNC  |      
+
+| Arduino | Encoder |
+|---------|---------|
+|   2     |   CLK   |
+|   3     |   DT    |
+|   4     |   SW    |
 
 
 
