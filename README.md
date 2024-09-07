@@ -24,6 +24,13 @@
 ### Kenwood VFO connector
 ![image](https://github.com/user-attachments/assets/731ca900-91f8-4690-ba3e-0c194500833d)
 
+
+## Parts List:
+1. [AD9833](https://www.analog.com/media/en/technical-documentation/data-sheets/ad9833.pdf)
+2. Arduino Uno/Nano/Leonardo/Mega (basically any, you just need to check the pinouts)
+3. Any Encoder
+4. Some jumper cables :)
+
 ## Installation
 
 1. Download the Arduino.ino code
