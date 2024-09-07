@@ -14,3 +14,4 @@
 | 13 (SCK)  | SCLK   |
 | 10 (SS)   | FSYNC  |
 
+![image](https://github.com/user-attachments/assets/731ca900-91f8-4690-ba3e-0c194500833d)
