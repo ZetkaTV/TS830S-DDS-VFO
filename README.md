@@ -6,13 +6,13 @@
 
 ### Pinout:
 
-| Arduino   | AD9833 |
+| Arduino   | AD9833 |    
 |-----------|--------|
-| 5V        | VCC    |         
-| GND       | DGND   |         
-| 11 (MOSI) | SDATA  |        
-| 13 (SCK)  | SCLK   |         
-| 10 (SS)   | FSYNC  |      
+| 5V        | VCC    |
+| GND       | DGND   |
+| 11 (MOSI) | SDATA  |
+| 13 (SCK)  | SCLK   |
+| 10 (SS)   | FSYNC  |
 
 | Arduino | Encoder |
 |---------|---------|
