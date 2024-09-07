@@ -6,16 +6,14 @@
 
 ### Pinout:
 
-| Arduino   | AD9833 | Encoder |
-|-----------|--------|---------|
-| 5V        | VCC    |         |
-| GND       | DGND   |         |
-| 11 (MOSI) | SDATA  |         |
-| 13 (SCK)  | SCLK   |         |
-| 10 (SS)   | FSYNC  |         |
-| 2         |        | CLK     |
-| 3         |        | DT      |
-| 4         |        | SW      |
+| Arduino   | AD9833 |
+|-----------|--------|
+| 5V        | VCC    |         
+| GND       | DGND   |         
+| 11 (MOSI) | SDATA  |        
+| 13 (SCK)  | SCLK   |         
+| 10 (SS)   | FSYNC  |         
+
 
 
 ### Kenwood VFO connector
