@@ -35,5 +35,6 @@
 
 1. Download the Arduino.ino code
 2. Download the [Encoder](https://www.arduino.cc/reference/en/libraries/encoder/) library
-3. Upload code to the arduino
-4. Have fun testing it :)
+3. Download the [AD9833](https://github.com/RobTillaart/AD9833) library by Rob Tillaart
+4. Upload code to the arduino
+5. Have fun testing it :)
