@@ -21,6 +21,12 @@
 |   4     |   SW    |
 
 
-
 ### Kenwood VFO connector
 ![image](https://github.com/user-attachments/assets/731ca900-91f8-4690-ba3e-0c194500833d)
+
+## Installation
+
+1. Download the Arduino.ino code
+2. Download the Encoder library
+3. Upload code to the arduino
+4. Have fun testing it :)
