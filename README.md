@@ -4,5 +4,13 @@
 
 ## AD9833 based digital VFO for kenwood TS830/530/other radios :)
 
-### Installation
+### Pinout:
+
+| Arduino   | AD9833 |
+|-----------|--------|
+| 5V        | VCC    |
+| GND       | DGND   |
+| 11 (MOSI) | SDATA  |
+| 13 (SCK)  | SCLK   |
+| 10 (SS)   | FSYNC  |
 
