@@ -27,6 +27,6 @@
 ## Installation
 
 1. Download the Arduino.ino code
-2. Download the Encoder library
+2. Download the [Encoder](https://www.arduino.cc/reference/en/libraries/encoder/) library
 3. Upload code to the arduino
 4. Have fun testing it :)
