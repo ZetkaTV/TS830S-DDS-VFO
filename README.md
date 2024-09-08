@@ -38,3 +38,5 @@
 3. Download the [AD9833](https://github.com/RobTillaart/AD9833) library by Rob Tillaart
 4. Upload code to the arduino
 5. Have fun testing it :)
+
+### If you have any problems or need help, open a issue thread on github :)
